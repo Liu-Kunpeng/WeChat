@@ -4,6 +4,8 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/adtq/adtq.iml" filepath="$PROJECT_DIR$/adtq/adtq.iml" />
       <module fileurl="file://$PROJECT_DIR$/adtq/adtq-grailsPlugins.iml" filepath="$PROJECT_DIR$/adtq/adtq-grailsPlugins.iml" />
+      <module fileurl="file://$PROJECT_DIR$/zhf/zhf.iml" filepath="$PROJECT_DIR$/zhf/zhf.iml" />
+      <module fileurl="file://$PROJECT_DIR$/zhf/zhf-grailsPlugins.iml" filepath="$PROJECT_DIR$/zhf/zhf-grailsPlugins.iml" />
     </modules>
   </component>
 </project>
